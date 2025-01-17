@@ -1,4 +1,4 @@
-This is the fast-reconstruction and optical-sectioning reconstruction code for three-dimensional structure illuminattion microscopy(FO-3DSIM).
+This is the fast-reconstruction and optical-sectioning reconstruction code for three-dimensional structured illuminattion microscopy(FO-3DSIM).
 This project is finished by Ruijie Cao and Peng Xi in Peking University.
 
 Licence:
@@ -16,7 +16,7 @@ Citations
 Tips:
 
     You can also refer to our previous work Open-3DSIM for multi-platform 3DSIM reconstruction. 
-    Open-3DSIM is robust and multi-platform compatible, but relatively slow. FO-3DSIM is fast but needs specifically tuned.
+    Open-3DSIM is robust and multi-platform compatible, but relatively slow. FO-3DSIM is fast but has a higher requirement on estimated parameters.
     Users can choose according to their requirements.
     https://github.com/Cao-ruijie/Open3DSIM
     https://www.nature.com/articles/s41592-023-01958-0
