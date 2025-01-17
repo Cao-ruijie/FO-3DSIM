@@ -8,7 +8,7 @@ Licence:
 
 Citations
 
-    Our paper are published in The Innovation
+    Our paper is published in The Innovation named
     "Fast reconstruction and optical-sectioning three-dimensional structured illumination microscopy"
     https://doi.org/10.1016/j.xinn.2024.100757
     please cite this if you find this useful.
